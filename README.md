@@ -6,6 +6,7 @@ Guess a 5 letter word!
 * E.g., for the secret word `moist` and guess word `tests`, the following examples both hint for the letters `t` and `s`, but in different locations of `tests` :
 
 **Wordle:**
+
 <img src="./images/eg_wordle.png" alt="Wordle example" width="400"/>
 
 **my_wordle:**
